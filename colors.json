@@ -1,0 +1,15 @@
+{
+	"colors" : [
+		{
+			"colorName": "Red",
+			"colorHex": "#FF0000",
+			"colorDesc": "The first color of the rainbow"
+		
+		},
+		{
+			"colorName": "Orange",
+			"colorHex": "#FFA500",
+			"colorDesc": "The second color of the rainbow"
+		}
+	]
+}
