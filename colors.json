@@ -3,14 +3,46 @@
 		{
 			"colorName": "Red",
 			"colorHex": "#FF0000",
-			"colorDesc": "Red is the first color on the rainbow and has the longest wavelength. It appears after violet and before orange. The color is often applied to feelings of anger or energy."
-		
+			"colorDesc": "Red is the first color on the rainbow and has the longest wavelength. It appears after violet and before orange. The color is often applied to feelings of anger or energy.",
+			"colorImage": "http://pngimg.com/uploads/heart/heart_PNG706.png",
+			"colorSite": "https://en.wikipedia.org/wiki/Red"
 		},
 		{
 			"colorName": "Orange",
 			"colorHex": "#FFA500",
-			"colorDesc": "The second color of the rainbow"
-		}
+			"colorDesc": "Orange is the second color on the rainbow and is the result when combining the colors red and yellow. Orange gives the feeling of warmth.",
+			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Orange.png",
+			"colorSite": "https://en.wikipedia.org/wiki/Orange_(colour)"
+		},
+		{
+			"colorName": "Yellow",
+			"colorHex": "#FFFF00",
+			"colorDesc": "Yellow is the third color on the rainbow, appearing after orange and before green. It is the brightest color on the rainbow. The color is reminiscient of objects like the Sun, gold, and dandelions!",
+			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Yellow.png",
+			"colorSite": "https://en.wikipedia.org/wiki/Yellow"
+		},
+		{
+			"colorName": "Green",
+			"colorHex": "#00FF00",
+			"colorDesc": "The color Green comes after yellow and before blue on the rainbow. Many objects, including the grass in your yard, are green, and the world is full of green things!",
+			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Green.png",
+			"colorSite": "https://en.wikipedia.org/wiki/Green"
+		},
+		{
+			"colorName": "Blue",
+			"colorHex": "#0000FF",
+			"colorDesc": "Blue is one of the three primary colors succeeding green and preceding purple on the rainbow. The sky, people's eye color, and the emotion of sadness can all be blue.",
+			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Blue.png",
+			"colorSite": "https://en.wikipedia.org/wiki/Blue",
+		},
+		{
+			"colorName": "Purple",
+			"colorHex": "#800080",
+			"colorDesc": "Purple is the final color on the rainbow, and has the shortest wavelength. It comes after blue and before red.",
+			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Purple.png",
+			"colorSite": "https://en.wikipedia.org/wiki/Purple"
+		},
+
 	],
 	"Status": "OK"
 }
