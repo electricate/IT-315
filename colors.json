@@ -33,7 +33,7 @@
 			"colorHex": "#0000FF",
 			"colorDesc": "Blue is one of the three primary colors succeeding green and preceding purple on the rainbow. The sky, people's eye color, and the emotion of sadness can all be blue.",
 			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Blue.png",
-			"colorSite": "https://en.wikipedia.org/wiki/Blue",
+			"colorSite": "https://en.wikipedia.org/wiki/Blue"
 		},
 		{
 			"colorName": "Purple",
@@ -41,7 +41,7 @@
 			"colorDesc": "Purple is the final color on the rainbow, and has the shortest wavelength. It comes after blue and before red.",
 			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Purple.png",
 			"colorSite": "https://en.wikipedia.org/wiki/Purple"
-		},
+		}
 
 	],
 	"Status": "OK"
