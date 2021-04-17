@@ -1,46 +1,46 @@
 {
 	"colors" : [
 		{
-			"colorName": "Red",
-			"colorHex": "#FF0000",
-			"colorDesc": "Red is the first color on the rainbow and has the longest wavelength. It appears after violet and before orange. The color is often applied to feelings of anger or energy.",
-			"colorImage": "http://pngimg.com/uploads/heart/heart_PNG706.png",
-			"colorSite": "https://en.wikipedia.org/wiki/Red"
+			"natName": "United States of America",
+			"natSub": "Country in North America",
+			"natDesc": "The United States of America, also called the 'United States' or 'USA' for short, is a country located in North America and is bordered by Canada to the north and Mexico to the south.",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/usa.png",
+			"natSite": "https://en.wikipedia.org/wiki/United_States"
 		},
 		{
-			"colorName": "Orange",
-			"colorHex": "#FFA500",
-			"colorDesc": "Orange is the second color on the rainbow and is the result when combining the colors red and yellow. Orange gives the feeling of warmth.",
-			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Orange.png",
-			"colorSite": "https://en.wikipedia.org/wiki/Orange_(colour)"
+			"natName": "Canada",
+			"natSub": "Country in North America",
+			"natDesc": "Orange is the second color on the rainbow and is the result when combining the colors red and yellow. Orange gives the feeling of warmth.",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Orange.png",
+			"natSite": "https://en.wikipedia.org/wiki/Orange_(colour)"
 		},
 		{
-			"colorName": "Yellow",
-			"colorHex": "#FFFF00",
-			"colorDesc": "Yellow is the third color on the rainbow, appearing after orange and before green. It is the brightest color on the rainbow. The color is reminiscient of objects like the Sun, gold, and dandelions!",
-			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Yellow.png",
-			"colorSite": "https://en.wikipedia.org/wiki/Yellow"
+			"natName": "Mexico",
+			"natSub": "Country in North America",
+			"natDesc": "Yellow is the third color on the rainbow, appearing after orange and before green. It is the brightest color on the rainbow. The color is reminiscient of objects like the Sun, gold, and dandelions!",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Yellow.png",
+			"natSite": "https://en.wikipedia.org/wiki/Yellow"
 		},
 		{
-			"colorName": "Green",
-			"colorHex": "#228B22",
-			"colorDesc": "The color Green comes after yellow and before blue on the rainbow. Many objects, including the grass in your yard, are green, and the world is full of green things!",
-			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Green.png",
-			"colorSite": "https://en.wikipedia.org/wiki/Green"
+			"natName": "France",
+			"natSub": "Country in Western Europe",
+			"natDesc": "The color Green comes after yellow and before blue on the rainbow. Many objects, including the grass in your yard, are green, and the world is full of green things!",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Green.png",
+			"natSite": "https://en.wikipedia.org/wiki/Green"
 		},
 		{
-			"colorName": "Blue",
-			"colorHex": "#0000FF",
-			"colorDesc": "Blue is one of the three primary colors succeeding green and preceding purple on the rainbow. The sky, people's eye color, and the emotion of sadness can all be blue.",
-			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Blue.png",
-			"colorSite": "https://en.wikipedia.org/wiki/Blue"
+			"natName": "Blue",
+			"natSub": "#0000FF",
+			"natDesc": "Blue is one of the three primary colors succeeding green and preceding purple on the rainbow. The sky, people's eye color, and the emotion of sadness can all be blue.",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Blue.png",
+			"natSite": "https://en.wikipedia.org/wiki/Blue"
 		},
 		{
-			"colorName": "Purple",
-			"colorHex": "#800080",
-			"colorDesc": "Purple is the final color on the rainbow, and has the shortest wavelength. It comes after blue and before red.",
-			"colorImage": "https://raw.githubusercontent.com/electricate/IT-315/main/Purple.png",
-			"colorSite": "https://en.wikipedia.org/wiki/Purple"
+			"natName": "Purple",
+			"natSub": "#800080",
+			"natDesc": "Purple is the final color on the rainbow, and has the shortest wavelength. It comes after blue and before red.",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Purple.png",
+			"natSite": "https://en.wikipedia.org/wiki/Purple"
 		}
 
 	],
