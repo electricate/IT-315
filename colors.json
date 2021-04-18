@@ -10,37 +10,37 @@
 		{
 			"natName": "Canada",
 			"natSub": "Country in North America",
-			"natDesc": "Orange is the second color on the rainbow and is the result when combining the colors red and yellow. Orange gives the feeling of warmth.",
-			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Orange.png",
-			"natSite": "https://en.wikipedia.org/wiki/Orange_(colour)"
+			"natDesc": "Canada is the northern-most nation of the Americas. It sits on top of the USA, and is well-known for ice hockey, maple syrup, and bagged milk.",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/ca.png",
+			"natSite": "https://en.wikipedia.org/wiki/Canada"
 		},
 		{
 			"natName": "Mexico",
 			"natSub": "Country in North America",
-			"natDesc": "Yellow is the third color on the rainbow, appearing after orange and before green. It is the brightest color on the rainbow. The color is reminiscient of objects like the Sun, gold, and dandelions!",
-			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Yellow.png",
-			"natSite": "https://en.wikipedia.org/wiki/Yellow"
+			"natDesc": "Mexico is the southern-most nation of North America. It is one of the largest and most notable Spanish-speaking countries in the entire world!",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/mexico.png",
+			"natSite": "https://en.wikipedia.org/wiki/Mexico"
 		},
 		{
 			"natName": "France",
 			"natSub": "Country in Western Europe",
-			"natDesc": "The color Green comes after yellow and before blue on the rainbow. Many objects, including the grass in your yard, are green, and the world is full of green things!",
-			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Green.png",
-			"natSite": "https://en.wikipedia.org/wiki/Green"
+			"natDesc": "France is a major country in Europe and houses the Eiffel Tower in Paris, the captial of the nation and a popular tourist attraction!",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/france.png",
+			"natSite": "https://en.wikipedia.org/wiki/France"
 		},
 		{
-			"natName": "Blue",
-			"natSub": "#0000FF",
-			"natDesc": "Blue is one of the three primary colors succeeding green and preceding purple on the rainbow. The sky, people's eye color, and the emotion of sadness can all be blue.",
-			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Blue.png",
-			"natSite": "https://en.wikipedia.org/wiki/Blue"
+			"natName": "Germany",
+			"natSub": "Country in Central Europe",
+			"natDesc": "Germany, officially the Federal Republic of Germany, is a country that is well known for Bratwurst, Lederhosen, and the iconic Oktoberfest!",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/de.png",
+			"natSite": "https://en.wikipedia.org/wiki/Germany"
 		},
 		{
-			"natName": "Purple",
-			"natSub": "#800080",
-			"natDesc": "Purple is the final color on the rainbow, and has the shortest wavelength. It comes after blue and before red.",
-			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/Purple.png",
-			"natSite": "https://en.wikipedia.org/wiki/Purple"
+			"natName": "United Kingdom",
+			"natSub": "Country in North-West Europe",
+			"natDesc": "The United Kingdom, often abbreviated to UK, is a nation separated from mainland Europe by the English Channel. The UK is a close ally of the United States!",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/uk.png",
+			"natSite": "https://en.wikipedia.org/wiki/United_Kingdom"
 		}
 
 	],
