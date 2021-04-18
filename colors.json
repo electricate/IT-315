@@ -4,6 +4,8 @@
 			"natName": "United States of America",
 			"natSub": "Country in North America",
 			"natDesc": "The United States of America, also called the 'United States' or 'USA' for short, is a country located in North America and is bordered by Canada to the north and Mexico to the south.",
+			"natLang": "English",
+			"natPop": "330M",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/usa.png",
 			"natSite": "https://en.wikipedia.org/wiki/United_States"
 		},
@@ -11,6 +13,8 @@
 			"natName": "Canada",
 			"natSub": "Country in North America",
 			"natDesc": "Canada is the northern-most nation of the Americas. It sits on top of the USA, and is well-known for ice hockey, maple syrup, and bagged milk.",
+			"natLang": "English, French",
+			"natPop": "30M",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/can.png",
 			"natSite": "https://en.wikipedia.org/wiki/Canada"
 		},
@@ -18,6 +22,8 @@
 			"natName": "Mexico",
 			"natSub": "Country in North America",
 			"natDesc": "Mexico is the southern-most nation of North America. It is one of the largest and most notable Spanish-speaking countries in the entire world!",
+			"natLang": "Spanish",
+			"natPop": "128M",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/mexico.png",
 			"natSite": "https://en.wikipedia.org/wiki/Mexico"
 		},
@@ -25,6 +31,8 @@
 			"natName": "France",
 			"natSub": "Country in Western Europe",
 			"natDesc": "France is a major country in Europe and houses the Eiffel Tower in Paris, the captial of the nation and a popular tourist attraction!",
+			"natLang": "French",
+			"natPop": "65M",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/france.png",
 			"natSite": "https://en.wikipedia.org/wiki/France"
 		},
@@ -32,6 +40,8 @@
 			"natName": "Germany",
 			"natSub": "Country in Central Europe",
 			"natDesc": "Germany, officially the Federal Republic of Germany, is a country that is well known for Bratwurst, Lederhosen, and the iconic Oktoberfest!",
+			"natLang": "German",
+			"natPop": "84M",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/de.png",
 			"natSite": "https://en.wikipedia.org/wiki/Germany"
 		},
@@ -39,6 +49,8 @@
 			"natName": "United Kingdom",
 			"natSub": "Country in North-West Europe",
 			"natDesc": "The United Kingdom, often abbreviated to UK, is a nation separated from mainland Europe by the English Channel. The UK is a close ally of the United States!",
+			"natLang": "English",
+			"natPop": "68M",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/uk.png",
 			"natSite": "https://en.wikipedia.org/wiki/United_Kingdom"
 		}
