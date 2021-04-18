@@ -5,7 +5,7 @@
 			"natSub": "Country in North America",
 			"natDesc": "The United States of America, also called the 'United States' or 'USA' for short, is a country located in North America and is bordered by Canada to the north and Mexico to the south.",
 			"natLang": "English",
-			"natPop": "330M",
+			"natPop": "330 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/usa.png",
 			"natSite": "https://en.wikipedia.org/wiki/United_States"
 		},
@@ -14,7 +14,7 @@
 			"natSub": "Country in North America",
 			"natDesc": "Canada is the northern-most nation of the Americas. It sits on top of the USA, and is well-known for ice hockey, maple syrup, and bagged milk.",
 			"natLang": "English, French",
-			"natPop": "30M",
+			"natPop": "30 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/can.png",
 			"natSite": "https://en.wikipedia.org/wiki/Canada"
 		},
@@ -23,7 +23,7 @@
 			"natSub": "Country in North America",
 			"natDesc": "Mexico is the southern-most nation of North America. It is one of the largest and most notable Spanish-speaking countries in the entire world!",
 			"natLang": "Spanish",
-			"natPop": "128M",
+			"natPop": "128 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/mexico.png",
 			"natSite": "https://en.wikipedia.org/wiki/Mexico"
 		},
@@ -32,7 +32,7 @@
 			"natSub": "Country in Western Europe",
 			"natDesc": "France is a major country in Europe and houses the Eiffel Tower in Paris, the captial of the nation and a popular tourist attraction!",
 			"natLang": "French",
-			"natPop": "65M",
+			"natPop": "65 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/france.png",
 			"natSite": "https://en.wikipedia.org/wiki/France"
 		},
@@ -41,7 +41,7 @@
 			"natSub": "Country in Central Europe",
 			"natDesc": "Germany, officially the Federal Republic of Germany, is a country that is well known for Bratwurst, Lederhosen, and the iconic Oktoberfest!",
 			"natLang": "German",
-			"natPop": "84M",
+			"natPop": "84 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/de.png",
 			"natSite": "https://en.wikipedia.org/wiki/Germany"
 		},
@@ -50,9 +50,18 @@
 			"natSub": "Country in North-West Europe",
 			"natDesc": "The United Kingdom, often abbreviated to UK, is a nation separated from mainland Europe by the English Channel. The UK is a close ally of the United States!",
 			"natLang": "English",
-			"natPop": "68M",
+			"natPop": "68 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/uk.png",
 			"natSite": "https://en.wikipedia.org/wiki/United_Kingdom"
+		},
+		{
+			"natName": "Russia",
+			"natSub": "Country in Eastern Europe and North Asia",
+			"natDesc": "The Russian Federation is the largest nation on Earth, spanning across two different continents. It is home to several distinct ethnic groups.",
+			"natLang": "Russian",
+			"natPop": "146 Million",
+			"natFlag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/281/flag-russia_1f1f7-1f1fa.png",
+			"natSite": "https://www.visitrussia.com/"
 		}
 
 	],
