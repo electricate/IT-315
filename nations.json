@@ -7,7 +7,7 @@
 			"natLang": "English",
 			"natPop": "330 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/usa.png",
-			"natSite": "https://en.wikipedia.org/wiki/United_States"
+			"natSite": "https://www.visittheusa.com/"
 		},
 		{
 			"natName": "Canada",
@@ -16,7 +16,7 @@
 			"natLang": "English, French",
 			"natPop": "30 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/can.png",
-			"natSite": "https://en.wikipedia.org/wiki/Canada"
+			"natSite": "https://us-keepexploring.canada.travel/experience-canada-virtually-from-home?sr_campaign=ipg&sr_source=sem&sr_lift=true&ds_c=21_CTR_USA_EN_C2D_DC_DC_GO_LG_BGT_AOS_KE&gclsrc=aw.ds&&gclid=CjwKCAjwmv-DBhAMEiwA7xYrd3OoH7SwRL05xplVm1-hOoXjpPJJzlNB07cqlfUx6x7oc_IMNFjrkhoC7oMQAvD_BwE"
 		},
 		{
 			"natName": "Mexico",
@@ -25,7 +25,7 @@
 			"natLang": "Spanish",
 			"natPop": "128 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/mexico.png",
-			"natSite": "https://en.wikipedia.org/wiki/Mexico"
+			"natSite": "https://www.visitmexico.com/en/"
 		},
 		{
 			"natName": "France",
@@ -34,7 +34,7 @@
 			"natLang": "French",
 			"natPop": "65 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/france.png",
-			"natSite": "https://en.wikipedia.org/wiki/France"
+			"natSite": "https://us.france.fr/en"
 		},
 		{
 			"natName": "Germany",
@@ -43,7 +43,7 @@
 			"natLang": "German",
 			"natPop": "84 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/de.png",
-			"natSite": "https://en.wikipedia.org/wiki/Germany"
+			"natSite": "https://www.germany.travel/en/home.html"
 		},
 		{
 			"natName": "United Kingdom",
@@ -52,7 +52,7 @@
 			"natLang": "English",
 			"natPop": "68 Million",
 			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/uk.png",
-			"natSite": "https://en.wikipedia.org/wiki/United_Kingdom"
+			"natSite": "https://www.visitbritain.com/us/en"
 		},
 		{
 			"natName": "Russia",
