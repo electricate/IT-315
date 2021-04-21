@@ -60,8 +60,53 @@
 			"natDesc": "The Russian Federation is the largest nation on Earth, spanning across two different continents. It is home to several distinct ethnic groups.",
 			"natLang": "Russian",
 			"natPop": "146 Million",
-			"natFlag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/281/flag-russia_1f1f7-1f1fa.png",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/russia.png",
 			"natSite": "https://www.visitrussia.com/"
+		},
+		{
+			"natName": "China",
+			"natSub": "Country in East Asia",
+			"natDesc": "China is the largest country in terms of population in East Asia, with over a billion people living there! The Great Wall of China, which is a popular tourist attraction, can be found there!",
+			"natLang": "Standard Chinese",
+			"natPop": "1.4 Billion",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/china.png",
+			"natSite": "https://www.chinadiscovery.com/customize-china-tour.html?gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFNrA21J-sxdD7rvD5d01-hAmm2sePKliwozqG8e1ShjciFCj1bras8aAjKYEALw_wcB"
+		},
+		{
+			"natName": "Japan",
+			"natSub": "Archipelago in East Asia",
+			"natDesc": "Japan is an island nation situated off the coast of East Asia. Many commercial products such as automobiles, electronics, and even video games are exported from here to the rest of the world!",
+			"natLang": "Japanese",
+			"natPop": "125 Million",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/japan.png",
+			"natSite": "https://www.japan.travel/en/us/"
+		},
+		{
+			"natName": "South Korea",
+			"natSub": "Country in East Asia",
+			"natDesc": "South Korea is a small nation situated on the southern portion of the Korean Peninsula. Samsung, arguably the biggest competitior to Apple, is headquartered in Seoul, the capital city.",
+			"natLang": "Korean",
+			"natPop": "51 Million",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/korea.png",
+			"natSite": "https://english.visitkorea.or.kr/enu/index.kto"
+		},
+		{
+			"natName": "India",
+			"natSub": "Country in South Asia",
+			"natDesc": "The Republic of India is the second most populous nation in the world, coming after China. Many different religions, cultures, and people can be found all throughout India!",
+			"natLang": "Hindi, English",
+			"natPop": "1.35 Billion",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/india.png",
+			"natSite": "http://indiatourism-packages.org/index.html?gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFP-kwvYbCre9TcHZl4BeVJusDmOMP12OuHwgW3fwV5CeB8MlUrRFNsaAsVsEALw_wcB"
+		},
+		{
+			"natName": "Australia",
+			"natSub": "Country in Oceania",
+			"natDesc": "Australia is not only a country, but a continent as well! Australia used to be a subject of the British Empire but have since become an independent nation of their own!",
+			"natLang": "English",
+			"natPop": "25 Million",
+			"natFlag": "https://raw.githubusercontent.com/electricate/IT-315/main/aus.png",
+			"natSite": "https://www.australia.com/en-us/facts-and-planning.html?cid=paid-search|us|SYD798|brand|Google||||||||||&ef_id=Cj0KCQjw9_mDBhCGARIsAN3PaFNGNHbQ6Baat1HBcZp8R_JZo6Y-aWO0VdQRfgrDljeQS6sMrPE19JgaAiOvEALw_wcB:G:s&s_kwcid=AL!4635!3!433828240779!e!!g!!visit%20australia&utm_actcampaign=9514108983"
 		}
 
 	],
